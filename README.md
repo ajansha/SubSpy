@@ -32,9 +32,12 @@ ________________________________________________________________________________
 * Run the tool: python subs.py
 
 
+
+
 ## License
 
-SubSpy is distributed under the [MIT License]((https://github.com/ajansha/SubSpy/blob/main/LICENSE)).
+SubSpy is distributed under the [MIT License](https://github.com/ajansha/SubSpy/blob/main/LICENSE).
+
 
 ## Acknowledgements
 
