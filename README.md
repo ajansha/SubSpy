@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 ## License
 
-SubSpy is distributed under the [MIT License](link_to_license.md).
+SubSpy is distributed under the [MIT License]((https://github.com/ajansha/SubSpy/blob/main/LICENSE)).
 
 ## Acknowledgements
 
