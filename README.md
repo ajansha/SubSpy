@@ -1,5 +1,5 @@
 # SubSpy:
-SubSpy is a Python-based subdomain enumeration tool designed to help security professionals and researchers discover subdomains associated with a target domain. This tool leverages various techniques including querying crt.sh, scraping nmapper.com, and  brute-force enumeration with custom wordlists to comprehensively enumerate subdomains. SubSpy provides an easy-to-use command-line interface and generates detailed reports of discovered subdomains for further analysis.
+SubSpy is a Python-based subdomain enumeration tool designed to help security professionals and researchers discover subdomains associated with a target domain. This tool leverages various techniques including querying crt.sh, scraping and  brute-force enumeration with custom wordlists to comprehensively enumerate subdomains. SubSpy provides an easy-to-use command-line interface and generates detailed reports of discovered subdomains for further analysis.
 
 
 ![SubSpy Logo](https://github.com/ajansha/SubSpy/assets/68161367/53bae29b-6b14-44a9-93d0-45a5c1797b1a)
