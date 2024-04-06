@@ -39,9 +39,7 @@ ________________________________________________________________________________
 SubSpy is distributed under the [MIT License](https://github.com/ajansha/SubSpy/blob/main/LICENSE).
 
 
-## Acknowledgements
 
-I would like to thank the developers of crt.sh and nmapper.com for their valuable services.
 
 ___________________________________________________________________________________________________________________________________________________
 ## Disclaimer:
